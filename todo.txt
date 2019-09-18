@@ -1,0 +1,4 @@
+Malware or Critical Issue Detected
+at least one new or unaddressed threat or security issue that requires your immediate action
+Log in to account.magento.com/scanner to review the scan results and take action as soon as possible
+
